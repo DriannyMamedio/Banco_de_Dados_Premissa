@@ -1,5 +1,7 @@
 # 🛠️ Sistema de Gerenciamento de Loja de Ferragens – Projeto em PostgreSQL
 
+Este foi um projeto inicial feito em conjunto com Ana Luiza Pires Souza da Mata na matéria Sistema de Banco de Dados (SBD) no curso de Estatística.
+
 Este repositório contém o desenvolvimento de um sistema de banco de dados relacional voltado à gestão de uma **loja de ferragens**, utilizando **PostgreSQL** como SGBD.
 
 ## 📌 Objetivo
